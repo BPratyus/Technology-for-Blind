@@ -1,2 +1,2 @@
-#define SECRET_SSID "A50s"
-#define SECRET_PASS "Itsfrom028"
+#define SECRET_SSID "Your SSID"
+#define SECRET_PASS "Your P@ssw0rd"
